@@ -4,6 +4,8 @@ Programming languages that I've been studied so far:
 - Python
 - Go
 - C++
+- Java
+- JavaScript
 
 Things I'm currently interested in:
 - Web Development
