@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atha 👋</h1>
+# Hi, I'm Atha 👋
 
 ```jsx
 function App() {
