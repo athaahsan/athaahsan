@@ -47,33 +47,6 @@ Docker, Netlify, Supabase, Tailscale, SSH, Nextcloud, homelab experiments
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧑‍💻 Personal Portfolio + AI Chatbot  
-A personal portfolio website with a dark glassmorphism UI, animated sections, and an integrated AI chatbot that can answer questions about my experience, projects, and skills.
-
-- Live: [athaahsan.com](https://athaahsan.com)
-- Built with: React, Vite, Tailwind CSS, DaisyUI, Framer Motion, OpenRouter, Netlify Functions
-
----
-
-### 📈 Crypto Dashboard  
-A real-time cryptocurrency analytics dashboard with interactive charts, technical indicators, market sentiment, crypto news, and AI-generated buy/hold/sell insights.
-
-- Live: [crypto.athaahsan.com](https://crypto.athaahsan.com)
-- Telegram Bot: [@dailybtcinsightbot](https://t.me/dailybtcinsightbot)
-- Built with: React, Tailwind CSS, DaisyUI, Binance API, CoinGecko API, Alternative.me API, OpenRouter, Google Apps Script
-
----
-
-### 🎬 Video Clipping Automation  
-An automated pipeline for turning Twitch content into short-form videos, including clip retrieval, video processing, subtitle generation, and publishing workflows.
-
-- Channels: [JiddyClips](https://www.youtube.com/@JiddyClips-67), [MoodaClips](https://www.youtube.com/@MoodaClips-67)
-- Built with: n8n, FFmpeg, Twitch API, ElevenLabs API
-
----
-
 ## 🏠 Homelab & Playground
 
 I also run a small homelab / mini PC sandbox where I test self-hosted tools, automation workflows, and agentic AI setups.
@@ -98,22 +71,6 @@ It’s basically my little “what happens if I connect this to that?” lab.
 - Data products with clean UX
 - Self-hosted infrastructure
 - Making boring workflows less boring
-
----
-
-## 📊 GitHub Stuff
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athaahsan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athaahsan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## ✨ Tiny Philosophy
-
-> Build things. Break things. Automate the boring parts.  
-> Then make the interface nice enough that people actually want to use it.
 
 ---
 
