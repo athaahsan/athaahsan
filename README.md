@@ -9,10 +9,6 @@ const Atha = () => {
     "Automation",
     "Vibe Coding"
   ];
-  return <Developer
-    name="Atha"
-    stack={interests}
-    status={status}
-  />;
+  return <Developer name="Atha" stack={interests} status={status} />;
 };
 ```
