@@ -1,17 +1,9 @@
 # Hi, I'm Atha 👋
 
 ```jsx
-function App() {
-  const stuff = ["AI", "Data", "Automation"];
-
-  return (
-    <>
-      <AthaAhsan
-        interests={stuff}
-      />
-    </>
-  );
-}
-
-export default App;
+const Atha = () => {
+  const [status, setStatus] = useState("Building...");
+  const interests = ["AI", "Data", "Automation", "Vibe Coding"];
+  return <Developer name="Atha" stack={interests} status={status} />;
+};
 ```
