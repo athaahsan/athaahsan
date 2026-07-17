@@ -4,7 +4,7 @@
 const Atha = () => (
   <Developer
     name="Atha"
-    role="AI, Data & Automation Developer"
+    role="Applied AI & Automation Developer"
     status="Building..."
     interests={[
       "AI",
